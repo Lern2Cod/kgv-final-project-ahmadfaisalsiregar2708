@@ -9,3 +9,4 @@ kgv-final-project-ahmadfaisalsiregar2708 created by GitHub Classroom
   the "W" and "UP" buttons for the front, the "S" and "DOWN" buttons for the back, 
   the "D" and "RIGHT" buttons for the right, the "A" button "and" LEFT "for left, 
   and "Z" button for rotating to 90 degrees left.
+- Style : traditional model
