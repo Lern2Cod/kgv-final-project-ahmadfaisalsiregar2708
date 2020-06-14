@@ -1,0 +1,53 @@
+﻿  uas_kgv.cpp
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(52,99): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(62,98): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(69,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(70,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(71,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(72,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(73,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(74,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(75,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(76,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(82,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(83,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(84,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(85,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(86,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(87,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(88,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(89,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(90,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(97,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(98,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(99,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(100,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(101,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(102,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(103,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(104,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(116,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(138,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(139,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(140,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(142,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(146,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(147,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(166,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(167,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(168,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(169,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(292,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(292,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(305,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(305,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(412,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(413,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(416,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(417,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(444,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(445,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(452,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(453,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmad\source\repos\uas_kgv\uas_kgv\uas_kgv.cpp(494,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  uas_kgv.vcxproj -> C:\Users\ahmad\source\repos\uas_kgv\Debug\uas_kgv.exe
